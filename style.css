@@ -45,6 +45,8 @@ body {
 
 .time-counter {
   font-size: 1.5rem;
+  border: 1px solid #ffffff;
+  padding: 20px;
 }
 
 .credits-footer {
